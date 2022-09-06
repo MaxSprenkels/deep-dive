@@ -1,0 +1,32 @@
+body{
+ background-color: black;
+}
+
+h2{
+color: white;
+}
+
+.tips{
+    display: flex;
+    justify-content: center;
+}
+
+p {
+color:aquamarine;
+}
+
+.container{
+display: flex;
+justify-content: space-evenly
+
+}
+
+.eerste{
+
+
+}
+
+.tweede{
+
+
+}
