@@ -23,12 +23,14 @@ html {
   background-color: #6500bd;
   color: white;
   border: 2px solid #6500bd;
+  box-shadow: 5px 10px rgb(88, 1, 132);
   padding: 10px;
   border-radius: 1rem;
 }
 #w3schools {
   background-color: #00a4bd;
   border: 2px solid #00a4bd;
+  box-shadow: 5px 10px rgb(0, 121, 103);
   padding: 5px;
   border-radius: 1rem;
 }
@@ -37,12 +39,14 @@ html {
   margin-left: 5px;
   background-color: #00a4bd;
   border: 2px solid #00a4bd;
+  box-shadow: 5px 10px rgb(0, 121, 103);
   padding: 5px;
   border-radius: 1rem;
 }
 #geeksforgeeks {
   background-color: #00a4bd;
   border: 2px solid #00a4bd;
+  box-shadow: 5px 10px rgb(0, 121, 103);
   padding: 5px;
   border-radius: 1rem;
 }
@@ -50,6 +54,7 @@ html {
   margin-left: 5px;
   background-color: #00a4bd;
   border: 2px solid #00a4bd;
+  box-shadow: 5px 10px rgb(0, 121, 103);
   padding: 5px;
   border-radius: 1rem;
 }
